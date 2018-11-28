@@ -106,7 +106,7 @@ int main(){
     aboutbagballbasecake
     elephantafraidofphotograph
     
-    Kindly use DB.rtf since i have certain spaces to avoid error while File reading.
+    Kindly use DB.rtf since i have modified certain spaces to avoid error while File reading.
 */
 
 
