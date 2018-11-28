@@ -105,6 +105,8 @@ int main(){
     Packmyboxwithfivedozenliquorjugs
     aboutbagballbasecake
     elephantafraidofphotograph
+    
+    Kindly use DB.rtf since i have certain spaces to avoid error while File reading.
 */
 
 
