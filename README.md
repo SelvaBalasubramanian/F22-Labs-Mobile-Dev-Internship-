@@ -1,2 +1,2 @@
-# F22-Labs-Mobile-Dev-Internship-
+# F22-Labs-Mobile-Dev-Internship
 Programming Task
